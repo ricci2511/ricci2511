@@ -1,7 +1,7 @@
 # 👋 Hello there, I’m Ricardo!
 
 - Aside from coding I’m heavily into gaming and hardware tinkering, especially modding game consoles and home server stuff.
-- After having gone through the basics I’m currently learning about Frontend technologies, as of now I'm building projects with Next.JS and picking up some CSS frameworks along the way.
+- I'm currently working on my biggest project yet. It's still a private repo but will be open sourced as soon as I release the first stable version.
 - I’m looking to collaborate on anything I can, doing my best to be a good Open Source contributor.
 - You can reach me on 📫 ricardo.christmann@protonmail.com
 
