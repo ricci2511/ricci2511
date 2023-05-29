@@ -1,8 +1,7 @@
 # 👋 Hello there, I’m Ricardo!
 
 - Aside from coding I’m heavily into gaming and hardware tinkering, especially modding game consoles and home server stuff.
-- I'm currently working on my biggest project yet, still very early in development. Sadly I don't have that much time now, so it will take a while.
-- I’m looking to collaborate on anything I can, doing my best to be a good Open Source contributor.
+- Always down to collaborate and contribute to some great Open Source projects.
 - You can reach me on 📫 ricardo.christmann@protonmail.com
 
 ## :chart_with_upwards_trend: My stats
