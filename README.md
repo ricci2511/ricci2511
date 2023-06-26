@@ -1,7 +1,7 @@
 # 👋 Hello there, I’m Ricardo!
 
 - Aside from coding I’m heavily into gaming and hardware tinkering, especially modding game consoles and tweaking my home server.
-- Currently building openkban (open source kanban web app) and learning Go.
+- Currently learning and enjoying Go.
 - Always down to collaborate and contribute to some great Open Source projects.
 - You can reach me on 📫 ricardo.christmann@protonmail.com
 
