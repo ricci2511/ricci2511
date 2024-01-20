@@ -1,8 +1,7 @@
 # 👋 Hello there, I’m Ricardo!
 
-- Apart from coding, I enjoy gaming and tinkering with hardware, including modding game consoles and optimizing my homelab.
-- Always eager to collaborate and contribute to exciting Open Source projects. 
-- Currently learning and enjoying Go.
+- Apart from coding, I enjoy gaming and hardware tinkering, including modding game consoles and optimizing my homelab.
+- Always down to collaborate and contribute to exciting Open Source projects. 
 - Feel free to reach out to me at 📫 ricardo.christmann@protonmail.com.
 
 <!---
